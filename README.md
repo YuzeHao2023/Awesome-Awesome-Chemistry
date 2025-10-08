@@ -7,7 +7,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 
 ## Table of contents
 
-- [Awesome Python Chemistry ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-python-chemistry-)
+- [Awesome-Awesome-Chemistry ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-aawesome-chemistry-)
   - [General Chemistry](#general-chemistry)
   - [Machine Learning](#machine-learning)
   - [Generative Molecular Design](#generative-molecular-design)
