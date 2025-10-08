@@ -136,7 +136,7 @@ This repository is maintained under the Apache License 2.0. See the LICENSE file
 
 ---
 
-## See Also
+## See Also/了解更多
 
 - awesome-chemistry collections and related awesome lists (search "awesome chemistry" on GitHub).
 - awesome lists: https://github.com/sindresorhus/awesome
