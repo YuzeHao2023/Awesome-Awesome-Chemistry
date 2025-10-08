@@ -7,15 +7,21 @@ A curated list of awesome chemistry resources and repositories across computatio
 
 ---
 
-## Table of contents
+## Table of contents/目录
 
-- General Chemistry
-- Machine Learning
-- Generative Molecular Design
-- Simulations
-- Molecular Visualization
-- Database Wrappers & Data
-- Learning Resources
+- Awesome Chemistry repos
+  - AI4Chem
+  - Computational Chemistry
+  - Chemistry Education
+
+- Chemistry Packages
+  - General Chemistry
+  - Machine Learning
+  - Generative Molecular Design
+  - Simulations
+  - Molecular Visualization
+  - Database Wrappers & Data
+  - Learning Resources
 - Contributing
 - License
 - See Also
