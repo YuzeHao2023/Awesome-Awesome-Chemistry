@@ -12,7 +12,7 @@ A curated list of awesome chemistry resources and repositories across computatio
 - Awesome Chemistry repos
   - AI4Chem
   - Computational Chemistry
-  - Chemistry Education
+  - Chemistry Education.
 
 - Chemistry Packages
   - General Chemistry
